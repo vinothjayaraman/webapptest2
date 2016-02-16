@@ -33,7 +33,7 @@ namespace PhoneBookTestApp
             }
             catch (Exception)
             {
-                throw;
+                throw; 
             }
             finally
             {
